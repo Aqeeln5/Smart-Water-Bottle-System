@@ -15,7 +15,7 @@ A health-focused embedded IoT system built with Arduino that tracks hydration in
 4. Buzzer triggers alerts when hydration levels are low or temperature is abnormal
 
 ## 📐 Circuit Diagram
-![Circuit Diagram](assignment1.png)
+![Circuit Diagram](circuit-diagram.png)
 
 ## 🌐 System Architecture
 Built with IoT protocols mapped to OSI and TCP/IP models, ensuring a scalable and maintainable sensor-to-output pipeline.
